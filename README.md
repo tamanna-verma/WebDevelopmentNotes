@@ -1,6 +1,6 @@
-# WebDevelopmentNotes
-Web Development Notes are provided here .
-The notes of following Dev Lectures are provided are:-
+# WebDevelopmentNotes<br/>
+Web Development Notes are provided here .<br/>
+The notes of following Dev Lectures are provided are:-<br/>
 Day 1 <br/>
 Day 2 <br/>
 Day 3 <br/>
@@ -21,7 +21,7 @@ Day 17 <br/>
 Day 18 <br/>
 Day 19 <br/>
 Day 20 <br/>
-Day 21 ,22 was the revision of Project 2
+Day 21 ,22 was the revision of Project 2<br/>
 Day 23 <br/>
 Day 24 <br/>
 Day 25 <br/>
@@ -40,9 +40,9 @@ Day 37 <br/>
 Day 38 <br/>
 Day 39 <br/>
 Day 40 <br/>
-Day 41 and Day 42 Notes are pending
+Day 41 and Day 42 Notes are pending<br/>
 Day 43 <br/>
 Day 44 <br/>
 Day 45 <br/>
 Day 46 <br/>
-Day 47 and 48 was just revision 
+Day 47 and 48 was just revision <br/>
